@@ -1,0 +1,296 @@
+fileFormatVersion: 2
+guid: beed6bb21eb8e6f498bd4faca64eb43f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6650167060735301145
+    second: Hectors_cool_dragon123_0
+  - first:
+      213: 5212189863214228076
+    second: Hectors_cool_dragon123_1
+  - first:
+      213: 3566147825519788605
+    second: Hectors_cool_dragon123_2
+  - first:
+      213: -954088140913651291
+    second: Hectors_cool_dragon123_3
+  - first:
+      213: 4627376682495348736
+    second: Hectors_cool_dragon123_4
+  - first:
+      213: -5908121755095602229
+    second: Hectors_cool_dragon123_5
+  - first:
+      213: 2100148304881723082
+    second: Hectors_cool_dragon123_6
+  - first:
+      213: -4983274423547113361
+    second: Hectors_cool_dragon123_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hectors_cool_dragon123_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 163
+        width: 245
+        height: 137
+      alignment: 9
+      pivot: {x: 0.55450255, y: 0.2328655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916912825b32a4c50800000000000000
+      internalID: 6650167060735301145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hectors_cool_dragon123_1
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 182
+        width: 59
+        height: 104
+      alignment: 9
+      pivot: {x: 0.525147, y: 0.033972375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62a6c2b01b655840800000000000000
+      internalID: 5212189863214228076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hectors_cool_dragon123_2
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 168
+        width: 70
+        height: 132
+      alignment: 9
+      pivot: {x: 0.20326407, y: 0.08037336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3283a49d808d7130800000000000000
+      internalID: 3566147825519788605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hectors_cool_dragon123_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 15
+        width: 42
+        height: 68
+      alignment: 9
+      pivot: {x: 0.57065135, y: 0.8345552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1dd6c04e562c2f0800000000000000
+      internalID: -954088140913651291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hectors_cool_dragon123_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 15
+        width: 41
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5241251, y: 0.87091994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0009f0a639eb73040800000000000000
+      internalID: 4627376682495348736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hectors_cool_dragon123_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 22
+        width: 39
+        height: 60
+      alignment: 9
+      pivot: {x: 0.740939, y: 0.8956478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbe4c9f092220ea0800000000000000
+      internalID: -5908121755095602229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hectors_cool_dragon123_6
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 39
+        width: 46
+        height: 27
+      alignment: 9
+      pivot: {x: 0.83329046, y: 0.73812103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac62d1891c9352d10800000000000000
+      internalID: 2100148304881723082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hectors_cool_dragon123_7
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 6
+        width: 78
+        height: 117
+      alignment: 9
+      pivot: {x: 0.6394919, y: 0.07729931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f605f26705ad7dab0800000000000000
+      internalID: -4983274423547113361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 1
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

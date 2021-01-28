@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: 31be360223cee7d48a2ab062b3269f36
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -642538862227025751
+    second: DarkRaider_0
+  - first:
+      213: 957974519247514763
+    second: DarkRaider_1
+  - first:
+      213: 6921058445490908406
+    second: DarkRaider_2
+  - first:
+      213: 711898693659230937
+    second: DarkRaider_3
+  - first:
+      213: -5914403553202049142
+    second: DarkRaider_4
+  - first:
+      213: 6557274808801046324
+    second: DarkRaider_5
+  - first:
+      213: 6965996327893788486
+    second: DarkRaider_6
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DarkRaider_0
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 383
+        width: 287
+        height: 215
+      alignment: 9
+      pivot: {x: 0.067682356, y: 0.61188537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a013922f4e3517f0800000000000000
+      internalID: -642538862227025751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkRaider_1
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 440
+        width: 95
+        height: 98
+      alignment: 9
+      pivot: {x: 0.15349506, y: 0.8617348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8caf9befb86b4d00800000000000000
+      internalID: 957974519247514763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkRaider_2
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 227
+        width: 295
+        height: 288
+      alignment: 9
+      pivot: {x: 0.6888378, y: 0.07357947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fce331acf98c0060800000000000000
+      internalID: 6921058445490908406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkRaider_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 56
+        width: 98
+        height: 97
+      alignment: 9
+      pivot: {x: 0.7196252, y: 0.8524126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f6511ed41dbeda0800000000000000
+      internalID: -5914403553202049142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkRaider_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 68
+        width: 95
+        height: 102
+      alignment: 9
+      pivot: {x: 0.2867663, y: 0.8227246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f243952be100b50800000000000000
+      internalID: 6557274808801046324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkRaider_6
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 48
+        width: 206
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5430218, y: 0.048793368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647e8c6b0c03ca060800000000000000
+      internalID: 6965996327893788486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 1
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

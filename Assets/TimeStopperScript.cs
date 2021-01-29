@@ -8,7 +8,6 @@ public class TimeStopperScript : MonoBehaviour
     void Start()
     {
         Time.timeScale = 1f;
-        DontDestroyOnLoad(this.gameObject);
     }
 
     public void Update()

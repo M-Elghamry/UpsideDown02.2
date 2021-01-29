@@ -18,6 +18,5 @@ public class ControlCanvasScript : MonoBehaviour
     public void StartGame()
     {
         Time.timeScale = 1;
-        Destroy(gameObject);
     }
 }

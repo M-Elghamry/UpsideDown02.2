@@ -38,6 +38,16 @@
     },
     "com.unity.ide.vscode": {
       "version": "1.2.3",
+<<<<<<< HEAD
+=======
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.postprocessing": {
+      "version": "3.0.1",
+>>>>>>> parent of 7955752... Black screen that happened with unity 2020.2
       "depth": 0,
       "source": "registry",
       "dependencies": {},

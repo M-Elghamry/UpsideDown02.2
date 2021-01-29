@@ -13,6 +13,7 @@ public class BulletMovement : MonoBehaviour
         GetComponent<Rigidbody2D>().AddForce(Force * Time.deltaTime * (GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>().position - gameObject.GetComponent<Transform>().position).normalized, ForceMode2D.Impulse);
     }
 
+
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if(collision.collider.tag != "Player" && collision.collider.tag != "Projectile")

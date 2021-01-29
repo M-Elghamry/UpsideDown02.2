@@ -4,9 +4,10 @@ using UnityEngine;
 
 public class BulletSpawnerCircle : MonoBehaviour
 {
-    public GameObject bullet;
+    public GameObject bullet1;
+    public GameObject bullet2;
     public float time;
-    private float timer;
+    public float timer;
     void Start()
     {
         timer = time;
@@ -16,9 +17,18 @@ public class BulletSpawnerCircle : MonoBehaviour
         transform.Rotate(new Vector3(0, 0, 1));
         if (timer <= 0)
         {
-            Instantiate(bullet, transform.position, Quaternion.identity);
+            if (Random.Range(-1f, 2f) > 0)
+            {
+                Instantiate(bullet1, transform.position, Quaternion.identity);
+            }
+            else
+            {
+                Instantiate(bullet2, transform.position, Quaternion.identity);
+            }
+
             timer = time;
         }
         timer -= .01f;
+        time -= .0001f;
     }
 }
